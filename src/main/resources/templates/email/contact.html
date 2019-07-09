@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact form Spring Boot</title>
+</head>
+<body data-th-object="${contact}">
+
+<h3 data-th-text="*{name}"></h3>
+<h3 data-th-text="*{email}"></h3>
+<h3 data-th-text="*{phone}"></h3>
+<h3 data-th-text="*{subject}"></h3>
+<p data-th-text="*{message}"></p>
+</body>
+</html>
