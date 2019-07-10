@@ -1,0 +1,3 @@
+Contact form with Spring Boot Thymeleaf Bootstrap 4 
+Try it on AWS (Elastic Beanstalk > Tomcat):
+http://contact-app.us-east-2.elasticbeanstalk.com/
